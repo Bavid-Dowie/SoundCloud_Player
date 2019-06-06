@@ -1,0 +1,9 @@
+.main-body {
+  background: #323232;
+  font-size: calc(1.5vw + 2vmin);
+  min-height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
