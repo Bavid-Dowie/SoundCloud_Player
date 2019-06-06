@@ -1,0 +1,9 @@
+.app-footer {
+  background: #000000;
+  font-size: calc(1vw + 2vmin);
+  min-height: 15vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
